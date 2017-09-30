@@ -1,0 +1,2 @@
+# hideout
+hideout generator
